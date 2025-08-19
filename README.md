@@ -35,10 +35,10 @@ Os inimigos também são representados por classes com atributos únicos:
 ---
 
 ## 🛠️ Requisitos
-Java JDK 8 ou superior
+- Java JDK 8 ou superior
 
-IDE Java (IntelliJ, Eclipse, VS Code com extensão Java)
+- IDE Java (IntelliJ, Eclipse, VS Code com extensão Java)
 
-Estrutura de pacotes conforme o exemplo acima
+- Estrutura de pacotes conforme o exemplo acima
 
 ---
